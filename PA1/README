@@ -1,0 +1,22 @@
+/********************************
+* Annie Hayes                   *
+* CPSC 2310 Spring 21           *
+* UserName: ahayes5             *
+* Instructor: Dr. Yvon Feaster  *
+*********************************/
+
+This assignment was difficult to figure out. I think if we had more examples
+of how to do the linked list that would have been super helpful. I really
+struggled with the double pointers and the linked list, I felt like they were
+unnecessary, along with the enums and the multiple print functions. One print 
+function would have been sufficient for the entire program. Overall, I did 
+this assignment in about 2 days, with around 5 hours of work. I have taken this
+class before and I think that the assignment was super vague. There wasn't an
+example of what the final output should look like. I think if a main was provided 
+it would have made it easier t
+
+links:
+https://stackoverflow.com/questions/18950835/printing-to-a-file-in-c/18950872
+https://stackoverflow.com/questions/36533362/how-to-call-a-function-in-another-function-in-c-programming
+https://www.dreamincode.net/forums/topic/259577-how-to-create-a-menu-in-c/
+(links in doc)
